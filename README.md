@@ -26,7 +26,7 @@ Built and delivered an AI tool that produces literary manuscript reports, adopte
 
 | Project | Business question | Takeaway |
 |---|---|---|
-| [EUR/USD forecasting and algorithmic trading](https://github.com/francisco-carcano/TFG---LSTM-GARCH) · BSc thesis, 9.3/10 | Can a forecasting model (LSTM + GARCH) support a profitable trading strategy? | End-to-end pipeline and backtest. The strategy was not viable once transaction costs were included, so the right decision was not to trade it. |
+| [EUR/USD forecasting and algorithmic trading](https://github.com/francisco-carcano/eurusd-lstm-garch-trading) · BSc thesis, 9.3/10 | Can a forecasting model (LSTM + GARCH) support a profitable trading strategy? | End-to-end pipeline and backtest. The strategy was not viable once transaction costs were included, so the right decision was not to trade it. |
 
 ---
 
