@@ -22,10 +22,11 @@ Built and delivered an AI tool that produces literary manuscript reports, adopte
 
 ---
 
-#### Selected project
+#### Selected projects
 
 | Project | Business question | Takeaway |
 |---|---|---|
+| [Mobile game unit economics](https://github.com/francisco-carcano/mobile-game-unit-economics) · side project | Is a small ad-funded mobile game worth building, and can it buy its players? | Cheap to run (about 14 organic installs a day break even), but a player brings in about €0.26 in a year against about €1.67 to acquire one. The case depends on organic growth, so test that first. |
 | [EUR/USD forecasting and algorithmic trading](https://github.com/francisco-carcano/eurusd-lstm-garch-trading) · BSc thesis, 9.3/10 | Can a forecasting model (LSTM + GARCH) support a profitable trading strategy? | End-to-end pipeline and backtest. The strategy was not viable once transaction costs were included, so the right decision was not to trade it. |
 
 ---
