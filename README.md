@@ -26,12 +26,13 @@ Built and delivered an AI tool that produces literary manuscript reports, adopte
 
 | Project | Business question | Takeaway |
 |---|---|---|
+| [Store-brand pricing for canned tuna](https://github.com/francisco-carcano/retail-price-elasticity) · [live simulator](https://francisco-carcano.github.io/retail-price-elasticity/) | Is a supermarket's store-brand tuna priced too low, and what happens to the whole category if it changes? | Store-brand shoppers barely react to its price (elasticity −1.2, against −2.5 to −3.1 for national brands). Raising it to $0.85–0.94 lifts category profit by about 5–9% in the model; that is the edge of the data, so test it in a group of stores first. |
 | [Mobile game unit economics](https://github.com/francisco-carcano/mobile-game-unit-economics) · side project | Is a small ad-funded mobile game worth building, and can it buy its players? | Cheap to run (about 14 organic installs a day break even), but a player brings in about €0.26 in a year against about €1.67 to acquire one. The case depends on organic growth, so test that first. |
 | [EUR/USD forecasting and algorithmic trading](https://github.com/francisco-carcano/eurusd-lstm-garch-trading) · BSc thesis, 9.3/10 | Can a forecasting model (LSTM + GARCH) support a profitable trading strategy? | End-to-end pipeline and backtest. The strategy was not viable once transaction costs were included, so the right decision was not to trade it. |
 
 ---
 
-**Toolkit:** Excel · SQL · Python (pandas, NumPy, scikit-learn) · Tableau · Power BI · OpenAI and Claude APIs · Vertex AI
+**Toolkit:** Excel · SQL · Python (pandas, NumPy, scikit-learn, statsmodels) · Tableau · Power BI · OpenAI and Claude APIs · Vertex AI
 **Languages:** Spanish and Catalan (native) · English (MSc taught in English)
 
 [LinkedIn](https://www.linkedin.com/in/francisco-carca%C3%B1o-mu%C3%B1oz-731630265/)
